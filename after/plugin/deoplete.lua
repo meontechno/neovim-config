@@ -1,0 +1,1 @@
+-- vim.g.deoplete_enable_at_startup = 1
